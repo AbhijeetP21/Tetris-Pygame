@@ -39,7 +39,3 @@ You can use this project as a basis for understanding how to implement classic g
 ## Contact
 
 If you want to contact me you can reach me at [abhijeetpachpute94@gmail.com](mailto:abhijeetpachpute94@gmail.com).
-
-## License
-
-This project uses the following license: [insert license name here].
